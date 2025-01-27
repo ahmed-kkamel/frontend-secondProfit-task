@@ -87,6 +87,8 @@ The form has been optimized for performance with the following enhancements:
 
 - **WebPageTest**: Fully loads in **2.2 seconds** on slow 3G connection.
 
+![screenshot](images/performance-scores.jpg)
+
 ### Recommendations for Further Improvements
 
 - **Implement Clean and Modular Code**  
